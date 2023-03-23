@@ -66,6 +66,6 @@ Licensed under the GNU GPLv3.0 License. Copyright © 2020
 
 ---
 
-GitHub: [@natemking](https://github.com/Seannzeribe/Module-12-Employee-Tracker/)
+GitHub: [@seannzeribe](https://github.com/Seannzeribe/Module-12-Employee-Tracker/)
 
-Email: [natmeking@gmail.com](mailto:snzeribe16@gmail.com)
+Email: [snzeribe16@gmail.com](snzeribe16@gmail.com)
