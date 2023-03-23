@@ -6,7 +6,7 @@ Homework #12 MySQL: Employee Tracker
 ![node.js badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![mysql badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-[App Demo Video](https://youtu.be/YDzjLP-YvEA)
+[App Demo Video](https://drive.google.com/file/d/1JA8L7QXGOGGZPGqpOGg7BqK7WFFJ0KPB/view?authuser=2)
 
 ---
 ## Table of Contents
